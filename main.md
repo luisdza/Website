@@ -129,7 +129,7 @@ knit: "bookdown::preview_chapter"
   
 # Sponsors & Partners
 
-## Venue and Catering Sponsor
+## Venue Sponsor
 Microsoft South Africa
 
 ## Partners
